@@ -42,18 +42,18 @@ A **full-stack next-gen IDS (Intrusion Detection System)** for web applications,
 
 ### 1. Clone & Install Dependencies
 
-git clone <your-repo-url>
-cd cybersec-ids
-cd backend
-npm install
-cd ../frontend
-npm install
+- git clone <your-repo-url>
+- cd cybersec-ids
+- cd backend
+- npm install
+- cd ../frontend
+- npm install
 
 
 ### 2. Start IDS Backend
 
-cd ../backend
-node app.js
+- cd ../backend
+- node app.js
 
 - Opens at: `http://localhost:5000`
 
