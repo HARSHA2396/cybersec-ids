@@ -1,6 +1,3 @@
-# cybersec-ids
-Full-stack AI-driven Web App Intrusion Detection System (IDS) with React dashboard. Real-time detection of XSS, SQLi, brute force, and more. Includes analytics, IP blocking, CSV export, and a demo vulnerable app for hands-on security testing.
-
 # 🛡️ Web Application Security Monitoring & Intrusion Detection System
 
 A **full-stack next-gen IDS (Intrusion Detection System)** for web applications, featuring live threat detection, analytics, IP blocking, geolocation, and seamless integration with any Node.js/Express web app.
@@ -31,9 +28,7 @@ A **full-stack next-gen IDS (Intrusion Detection System)** for web applications,
 
 ## 🏗️ Architecture
 
-[Demo Web App] → [IDS API/Backend] → [MongoDB]
-↓
-[React Real-Time Dashboard]
+ [Demo Web App] → [IDS API/Backend] → [MongoDB] → [React Real-Time Dashboard]
 
 
 ---
