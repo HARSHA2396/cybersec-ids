@@ -58,8 +58,8 @@ A **full-stack next-gen IDS (Intrusion Detection System)** for web applications,
 
 ### 3. Start React Dashboard
 
-cd ../frontend
-npm start
+- cd ../frontend
+- npm start
 
 - Opens at: `http://localhost:3000`
 
